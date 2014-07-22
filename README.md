@@ -1,7 +1,7 @@
 Folder-Skeleton-Automator
 =========================
 
-Automator Service for project folder creation
+Automator Service for project folder creation, download & install.
 
 ![ScreenShot](https://raw.githubusercontent.com/metodowhite/Folder-Skeleton-Automator/master/howto.png)
 
